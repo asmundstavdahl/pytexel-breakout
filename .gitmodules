@@ -1,0 +1,3 @@
+[submodule "texel"]
+	path = texel
+	url = ./texel/
